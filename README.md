@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onahMo
-- 👀 I’m interested in computer programming, penetration testing and cryptocurrency
+- 👀 I’m interested in data analytics, software development and cryptocurrency
 - 🌱 I’m currently learning penetration testing/Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on social media:instagram = @onah_programmer
